@@ -1,12 +1,12 @@
 nav {
-  background-color: rgb(220, 206, 191);
-  color: #583e3e;
+  background-color: rgb(255, 255, 255);
+  color: #000000;
   padding: 10px;
 }
 
 .navbar {
   display: flex;
-  color: #583e3e;
+  color: rgb(0, 0, 0);
   justify-content: space-between;
   align-items: center;
 }
@@ -25,7 +25,7 @@ nav {
 }
 
 .navbar ul li a {
-  color: #4e2511;
+  color: #000000;
   text-align: right;
   text-decoration: none;
 }
