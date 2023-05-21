@@ -1,0 +1,31 @@
+nav {
+  background-color: rgb(220, 206, 191);
+  color: #583e3e;
+  padding: 10px;
+}
+
+.navbar {
+  display: flex;
+  color: #583e3e;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar h1 {
+  font-size: 24px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+}
+
+.navbar ul li {
+  margin-right: 10px;
+}
+
+.navbar ul li a {
+  color: #4e2511;
+  text-align: right;
+  text-decoration: none;
+}
